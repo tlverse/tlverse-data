@@ -40,7 +40,7 @@ A_i, Y_i)$, for $i = 1, \ldots, n$.
 
 # Provenance
 
-Raw data were sourced from the OSF page for the WASH Benefits trial: https://osf.io/wvyn4/, and the example dataset was generated with the `make_washb.sh` script in the scripts subdirectory.
+Raw data were sourced from the OSF page for the WASH Benefits trial: [https://osf.io/wvyn4/], and the example dataset was generated with the `make_washb.sh` script in the scripts subdirectory.
 
 # Acknowledgments
 
