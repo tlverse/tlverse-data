@@ -1,0 +1,501 @@
+"whz","tr","fracode","month","aged","sex","momage","momedu","momheight","hfiacat","Nlt18","Ncomp","watmin","elec","floor","walls","roof","asset_wardrobe","asset_table","asset_chair","asset_khat","asset_chouki","asset_tv","asset_refrig","asset_bike","asset_moto","asset_sewmach","asset_mobile"
+-0.94,"Handwashing","N06505","7",237,"male",21,"Primary (1-5y)",146,"Food Secure",1,25,2,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+-1.13,"Control","N06505","8",310,"female",26,"No education",148.9,"Food Secure",1,7,4,1,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-1.61,"Control","N06524","3",162,"male",25,"Primary (1-5y)",153.75,"Food Secure",0,15,2,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0
+0.2,"Control","N06862","7",310,"female",21,"Primary (1-5y)",151.65,"Food Secure",0,12,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-1.12,"Nutrition","N04681","9",259,"female",28,"Secondary (>5y)",150.45,"Food Secure",2,10,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+-1.29,"Control","N06229","2",262,"female",30,"No education",157.45,"Food Secure",3,15,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+-2.14,"Control","N06524","4",172,"female",25,"Secondary (>5y)",144,"Food Secure",2,7,2,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-2.01,"Sanitation","N06505","1",214,"female",20,"Primary (1-5y)",141.75,"Food Secure",1,11,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-0.33,"WSH","N05265","2",159,"female",21,"Primary (1-5y)",154.5,"Food Secure",1,18,0,1,0,1,1,0,1,1,1,0,0,0,1,0,0,1
+-0.08,"Water","N05265","3",241,"male",19,"Secondary (>5y)",150.15,"Food Secure",1,8,6,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+-0.12,"Nutrition","N06229","6",218,"male",37,"Primary (1-5y)",159.35,"Food Secure",4,19,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-0.19,"Water","N05160","10",267,"male",21,"Secondary (>5y)",157.75,"Food Secure",4,10,0,0,0,0,1,0,1,1,1,1,1,0,1,1,0,1
+-1.02,"Water","N06524","10",256,"female",22,"Primary (1-5y)",147.8,"Food Secure",2,4,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0,1
+0,"Sanitation","N06458","12",185,"female",30,"No education",146.7,"Moderately Food Insecure",3,12,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,1
+0.11,"Nutrition","N06505","4",175,"female",30,"Primary (1-5y)",156.5,"Food Secure",3,5,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,1
+-0.8,"Handwashing","N06528","3",244,"male",25,"Secondary (>5y)",152.05,"Food Secure",1,16,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+0.16,"Nutrition","N06458","11",201,"female",26,"Primary (1-5y)",152.55,"Food Secure",0,8,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+-0.63,"Nutrition","N05359","5",198,"female",25,"No education",156.7,"Moderately Food Insecure",2,14,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-1.08,"Sanitation","N05160","3",171,"male",23,"Secondary (>5y)",151.4,"Food Secure",2,7,0,1,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+-1.27,"Nutrition + WSH","N06453","1",179,"female",23,"Primary (1-5y)",153.95,"Food Secure",2,16,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-1.43,"WSH","N06516","7",275,"female",18,"Primary (1-5y)",149.5,"Food Secure",0,26,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0,1
+0.44,"Handwashing","N04681","12",220,"male",22,"Primary (1-5y)",142.8,"Food Secure",1,8,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-0.51,"Control","N05359","8",323,"male",20,"Secondary (>5y)",145.6,"Food Secure",2,24,2,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+-1.33,"Nutrition","N06453","12",285,"male",26,"Secondary (>5y)",160.95,"Food Secure",2,27,0,1,1,1,1,0,1,1,1,0,1,0,0,0,0,1
+-0.42,"Handwashing","N08002","8",231,"female",18,"Primary (1-5y)",157.75,"Food Secure",1,11,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+-1.57,"WSH","N06479","8",285,"male",35,"Primary (1-5y)",148.4,"Food Secure",3,5,2,1,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+-1.2,"Control","N06458","11",144,"male",21,"Secondary (>5y)",147.45,"Mildly Food Insecure",0,16,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+0.79,"WSH","N06524","12",289,"female",32,"Secondary (>5y)",156.2,"Food Secure",2,9,2,0,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+-0.96,"Water","N06473","6",281,"female",20,"Secondary (>5y)",157.85,"Food Secure",1,10,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+-2.35,"Sanitation","N06479","10",265,"female",25,"Secondary (>5y)",138.4,"Moderately Food Insecure",0,7,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+-2.51,"WSH","N04681","9",328,"female",22,"Secondary (>5y)",144.85,"Food Secure",1,20,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+-2.2,"Nutrition","N06531","1",276,"female",35,"No education",156.8,"Food Secure",2,18,2,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1
+0.47,"Sanitation","N05265","6",308,"female",19,"Primary (1-5y)",147.45,"Food Secure",0,7,0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0
+2.36,"Sanitation","N06473","11",304,"male",25,"Secondary (>5y)",145.95,"Food Secure",3,6,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1
+-0.83,"WSH","N08002","9",304,"male",19,"Primary (1-5y)",146.5,"Severely Food Insecure",1,11,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-0.15,"Water","N06453","5",310,"male",26,"No education",150.3,"Moderately Food Insecure",2,5,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+-1.45,"Control","N06473","9",330,"male",31,"Secondary (>5y)",152.25,"Food Secure",3,12,0,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1
+-2.17,"Control","N06862","9",313,"female",23,"Primary (1-5y)",154.5,"Moderately Food Insecure",2,9,1,1,0,1,1,0,1,0,1,1,0,0,1,0,0,1
+-1.61,"Nutrition","N08002","1",159,"male",20,"Primary (1-5y)",146.75,"Moderately Food Insecure",2,4,2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+-0.79,"Nutrition + WSH","N06229","3",208,"female",29,"Secondary (>5y)",148.55,"Food Secure",3,20,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1
+-2.53,"Nutrition","N06473","10",310,"male",19,"Secondary (>5y)",153,"Food Secure",3,23,0,1,0,0,1,0,1,1,1,1,1,0,1,0,0,1
+-1.29,"Control","N06516","7",400,"female",22,"Secondary (>5y)",142.45,"Mildly Food Insecure",1,9,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-0.23,"Nutrition + WSH","N06516","11",231,"female",28,"Primary (1-5y)",153.4,"Food Secure",0,3,0,1,0,0,1,1,1,1,1,0,1,0,0,0,1,1
+-0.4,"Water","N06458","8",231,"male",20,"Secondary (>5y)",163.25,"Moderately Food Insecure",0,6,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1
+-0.56,"Sanitation","N06473","1",232,"female",34,"Primary (1-5y)",151.5,"Food Secure",5,16,0,1,0,0,1,0,1,1,1,1,1,0,1,0,0,1
+-1.46,"Nutrition + WSH","N08002","10",275,"female",25,"Secondary (>5y)",144.8,"Mildly Food Insecure",3,7,5,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1
+-2.7,"Nutrition","N06489","6",293,"male",26,"Secondary (>5y)",147.45,"Food Secure",1,17,0,1,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+-0.09,"Nutrition","43","7",190,"male",18,"Secondary (>5y)",152.7,"Food Secure",3,38,0,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1
+0.96,"Nutrition + WSH","N05160","4",229,"male",34,"Primary (1-5y)",151,"Food Secure",1,19,0,1,0,1,1,0,1,0,1,1,0,0,0,0,0,1
+-0.88,"Control","N05359","6",261,"male",22,"Primary (1-5y)",150.3,"Food Secure",3,26,0,1,0,1,1,0,1,1,1,1,1,0,1,1,0,1
+-1.78,"WSH","N06453","8",351,"female",25,"No education",151.4,"Mildly Food Insecure",0,11,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-1.92,"Control","N06458","9",260,"male",22,"Primary (1-5y)",140,"Food Secure",2,8,1,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+-0.19,"Control","N06516","9",378,"male",19,"Secondary (>5y)",153.95,"Mildly Food Insecure",0,6,1,1,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+-2.36,"Control","N06479","2",266,"male",30,"Primary (1-5y)",139.15,"Moderately Food Insecure",3,23,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+0.93,"WSH","N08002","1",261,"female",19,"Secondary (>5y)",153.45,"Food Secure",0,2,2,1,0,0,1,1,1,1,1,1,1,0,0,0,0,1
+0.08,"Water","N05265","6",245,"male",32,"Secondary (>5y)",155.65,"Food Secure",2,15,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+0.41,"WSH","N06862","2",210,"female",18,"Secondary (>5y)",152.8,"Food Secure",2,10,2,1,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+-1.57,"Sanitation","N06500","5",269,"female",29,"No education",147.3,"Severely Food Insecure",3,11,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+-0.75,"Sanitation","N05160","7",235,"female",29,"Secondary (>5y)",153.15,"Food Secure",3,20,0,1,0,1,1,0,1,0,1,0,0,0,0,0,1,1
+-0.02,"Handwashing","N06479","11",357,"male",21,"No education",142.85,"Mildly Food Insecure",2,9,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+-1.97,"Nutrition","43","4",335,"male",20,"Secondary (>5y)",152.7,"Food Secure",0,3,0,1,0,1,1,1,0,1,0,1,0,0,0,0,0,1
+-0.43,"Nutrition","N06528","6",336,"female",32,"No education",157.45,"Severely Food Insecure",3,11,0,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+-0.58,"Nutrition","N06229","3",236,"female",25,"Primary (1-5y)",145.55,"Food Secure",0,11,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+-1.78,"Nutrition","N06489","5",234,"female",22,"Secondary (>5y)",157.5,"Moderately Food Insecure",0,31,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,1
+-0.81,"Nutrition","N06502","8",308,"male",25,"Primary (1-5y)",150,"Severely Food Insecure",2,11,0,1,0,1,1,0,1,0,1,1,1,0,0,0,0,1
+-1.36,"Nutrition + WSH","N06458","8",343,"male",19,"Primary (1-5y)",144.3,"Moderately Food Insecure",2,23,3,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+-1.71,"WSH","N05265","8",369,"female",20,"Secondary (>5y)",159.6,"Food Secure",0,8,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-0.28,"Nutrition + WSH","N06479","1",260,"female",25,"Primary (1-5y)",164.55,"Food Secure",2,10,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-1.04,"Nutrition","N06528","5",308,"male",37,"No education",143.8,"Food Secure",4,6,0,1,0,0,1,0,1,1,0,1,1,0,0,0,0,1
+0.04,"Sanitation","N05160","11",220,"male",27,"No education",159.55,"Severely Food Insecure",1,5,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1
+-0.14,"Sanitation","N06458","4",269,"male",28,"Secondary (>5y)",148.8,"Moderately Food Insecure",2,10,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+-0.26,"Water","N04681","10",294,"male",23,"Secondary (>5y)",143.05,"Food Secure",2,5,0,1,1,1,1,1,1,1,1,0,1,0,0,1,0,1
+-1.35,"Control","N06862","4",322,"male",19,"Secondary (>5y)",148.65,"Food Secure",1,20,0,1,0,1,1,0,0,0,1,0,0,0,1,0,0,1
+0.85,"WSH","N06528","8",349,"male",26,"Secondary (>5y)",156.2,"Moderately Food Insecure",1,3,0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0
+-1.32,"Handwashing","N06528","4",296,"female",26,"Primary (1-5y)",150.15,"Food Secure",2,32,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+1.53,"Handwashing","N06473","9",318,"female",18,"Secondary (>5y)",157.85,"Food Secure",0,6,0,1,0,1,1,1,0,1,0,1,0,0,1,0,0,1
+-0.37,"Water","N06473","11",182,"male",18,"Primary (1-5y)",151.6,"Food Secure",1,7,1,1,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-0.74,"Water","N06473","3",301,"male",17,"Secondary (>5y)",153.3,"Severely Food Insecure",3,9,8,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+-1.55,"WSH","N06524","3",199,"female",30,"No education",154.55,"Food Secure",2,6,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+-2.66,"Handwashing","N06500","5",292,"female",28,"No education",139.85,"Severely Food Insecure",2,14,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-2.17,"Water","N05265","1",304,"male",41,"No education",148.1,"Moderately Food Insecure",3,9,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+-0.73,"Control","N06528","3",218,"female",20,"Primary (1-5y)",157,"Food Secure",3,12,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+0.25,"Sanitation","N05160","10",283,"female",31,"No education",NA,"Food Secure",1,7,0,1,0,0,1,0,1,1,1,1,1,0,0,0,0,1
+-1.02,"Handwashing","43","4",245,"female",19,"Primary (1-5y)",153.85,"Food Secure",3,12,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0
+-0.82,"Sanitation","N06531","9",308,"male",18,"Secondary (>5y)",158.85,"Food Secure",0,5,1,0,0,1,1,1,1,1,1,1,0,0,1,0,0,1
+1.19,"WSH","N06516","9",254,"male",18,"Secondary (>5y)",145.85,"Moderately Food Insecure",1,14,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+-1.83,"Water","N06453","9",372,"female",19,"Primary (1-5y)",149.85,"Food Secure",0,4,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+0.18,"Nutrition","N05160","8",300,"male",30,"Primary (1-5y)",152.55,"Food Secure",2,9,0,1,0,1,1,0,1,1,1,0,1,0,0,0,1,1
+-0.69,"Handwashing","N06473","9",263,"female",21,"Secondary (>5y)",149.6,"Food Secure",2,12,0,1,1,1,1,0,1,1,0,1,1,0,0,1,0,1
+-1.22,"WSH","N06524","1",217,"male",25,"Secondary (>5y)",161.2,"Food Secure",1,14,0,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1
+-0.49,"Water","N06489","3",169,"male",18,"Secondary (>5y)",151.3,"Food Secure",2,7,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-1.11,"Control","N08002","4",327,"male",28,"Primary (1-5y)",155.5,"Severely Food Insecure",0,18,3,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+-0.54,"WSH","N06453","8",289,"female",28,"No education",142.7,"Moderately Food Insecure",3,13,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-0.52,"Nutrition + WSH","N05359","9",221,"male",28,"Primary (1-5y)",151.2,"Food Secure",2,4,0,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1
+1.02,"WSH","N06502","9",292,"male",32,"Primary (1-5y)",149.2,"Moderately Food Insecure",5,11,1,1,0,1,1,0,0,1,0,1,0,0,1,0,0,1
+-1.65,"Water","N06473","10",338,"male",19,"Secondary (>5y)",156.45,"Food Secure",3,13,0,1,0,0,1,0,1,0,0,1,1,0,0,0,0,1
+0.59,"WSH","N08002","10",307,"male",21,"Secondary (>5y)",152.6,"Food Secure",1,7,2,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1
+-0.95,"Nutrition + WSH","N05359","9",297,"female",25,"Secondary (>5y)",150,"Mildly Food Insecure",1,7,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+-0.49,"Nutrition","N06516","12",287,"male",18,"Secondary (>5y)",155.65,"Food Secure",0,9,0,1,1,0,1,0,1,1,1,0,1,0,0,1,0,1
+0.23,"Sanitation","N06524","12",254,"female",22,"Primary (1-5y)",150.15,"Food Secure",2,11,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1
+2.01,"Nutrition + WSH","N05160","11",207,"female",23,"Secondary (>5y)",142.1,"Food Secure",3,7,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1
+1.53,"Handwashing","N06229","8",261,"female",27,"Primary (1-5y)",151.25,"Moderately Food Insecure",0,12,0,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1
+0.83,"Sanitation","N06524","12",292,"male",17,"Secondary (>5y)",147.5,"Food Secure",2,5,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,1
+-1.23,"Control","N06505","1",224,"female",17,"Secondary (>5y)",153.15,"Food Secure",1,14,4,1,1,1,1,0,1,1,1,1,0,0,1,0,0,1
+0.18,"Control","N05359","8",350,"male",18,"No education",149,"Moderately Food Insecure",2,24,120,0,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+-0.19,"Control","N06505","1",211,"female",23,"No education",139.25,"Food Secure",2,13,4,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0
+-0.31,"Nutrition","N06502","8",317,"female",24,"Primary (1-5y)",143,"Food Secure",2,14,1,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1
+0.05,"Control","N06229","2",201,"male",22,"Secondary (>5y)",147.45,"Food Secure",2,5,0,0,1,1,1,0,1,1,1,1,0,0,0,0,0,0
+-1.45,"Handwashing","N05359","11",227,"male",25,"Secondary (>5y)",150.4,"Mildly Food Insecure",2,10,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-0.6,"Control","N05160","12",246,"male",16,"Secondary (>5y)",151.2,"Food Secure",3,5,0,1,1,1,1,0,1,1,1,1,1,0,0,0,0,1
+0.32,"Control","N05359","5",263,"female",17,"Primary (1-5y)",151.35,"Moderately Food Insecure",0,15,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-0.69,"Water","N06516","8",220,"female",30,"No education",159,"Food Secure",3,14,0,0,0,1,1,0,1,1,0,1,1,0,0,0,0,0
+0.2,"Nutrition + WSH","N06453","11",259,"male",16,"Secondary (>5y)",153.5,"Food Secure",2,6,3,0,0,0,1,1,1,1,1,1,0,0,0,0,0,1
+-0.06,"Nutrition + WSH","N06458","7",314,"male",28,"Secondary (>5y)",157.15,"Food Secure",1,8,0,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1
+1.13,"WSH","N06516","9",311,"female",25,"Primary (1-5y)",151.9,"Food Secure",5,41,0,1,0,1,1,0,0,1,0,1,0,0,1,0,0,1
+0.49,"Sanitation","N06531","8",237,"female",35,"No education",152.05,"Food Secure",1,9,1,1,0,1,1,0,1,1,1,0,0,0,1,0,0,1
+-1.03,"Nutrition + WSH","N06516","11",304,"male",22,"Secondary (>5y)",149.2,"Mildly Food Insecure",0,5,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1
+-2.12,"Control","N06229","7",294,"male",27,"Secondary (>5y)",152.9,"Food Secure",2,5,0,1,0,1,1,0,1,1,1,1,1,0,1,0,1,1
+-1.12,"Control","N06516","4",324,"female",30,"Primary (1-5y)",146.1,"Mildly Food Insecure",2,15,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+-1.04,"Control","N06531","5",333,"female",25,"Primary (1-5y)",133.65,"Food Secure",1,3,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+0.06,"Water","N04681","10",365,"male",20,"Secondary (>5y)",150.1,"Food Secure",0,21,0,1,0,0,1,0,1,1,1,1,1,1,0,1,0,1
+-1.13,"Nutrition","N06473","6",273,"male",18,"Secondary (>5y)",148.5,"Moderately Food Insecure",0,9,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+0.16,"Control","N06516","5",217,"female",20,"Secondary (>5y)",145.1,"Food Secure",2,19,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-0.09,"Control","N06453","11",240,"female",28,"Secondary (>5y)",149.25,"Food Secure",1,8,1,1,0,0,1,0,1,1,1,0,1,1,1,0,0,1
+-2.25,"Nutrition","N06528","4",273,"male",22,"Secondary (>5y)",150.25,"Food Secure",1,9,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1
+-0.22,"Nutrition + WSH","N06453","10",358,"male",17,"Secondary (>5y)",NA,"Food Secure",1,3,2,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1
+-1.74,"WSH","N06500","5",279,"male",34,"Primary (1-5y)",151,"Mildly Food Insecure",4,13,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+2.11,"Nutrition","N05359","11",267,"male",22,"Secondary (>5y)",152.4,"Food Secure",1,5,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+0.29,"WSH","N05160","8",269,"male",24,"Secondary (>5y)",160.25,"Food Secure",3,6,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+-0.21,"Handwashing","N05160","10",381,"female",17,"Primary (1-5y)",147.85,"Food Secure",2,5,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-0.12,"Water","N06458","11",235,"male",18,"Secondary (>5y)",147.65,"Mildly Food Insecure",1,14,0,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1
+-2.43,"Control","N06862","7",326,"male",25,"Primary (1-5y)",148.4,"Food Secure",1,7,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+-0.01,"Handwashing","N06453","1",273,"female",22,"Secondary (>5y)",149.7,"Food Secure",1,27,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,1
+-1.65,"Control","N06500","4",253,"female",25,"Secondary (>5y)",162.6,"Mildly Food Insecure",3,11,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-0.75,"WSH","N04681","8",273,"female",27,"Secondary (>5y)",160.85,"Food Secure",2,7,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1
+1.42,"Water","N06516","9",349,"female",20,"Secondary (>5y)",152.1,"Mildly Food Insecure",0,3,1,1,0,0,1,0,1,1,1,0,1,1,0,1,1,1
+-0.58,"Handwashing","N06453","1",230,"male",20,"Primary (1-5y)",156.1,"Moderately Food Insecure",1,5,2,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+1.75,"Handwashing","N06229","8",280,"female",19,"Secondary (>5y)",143.3,"Food Secure",1,12,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0,1
+-0.57,"Control","N06502","1",285,"male",22,"Primary (1-5y)",146.5,"Food Secure",1,9,1,0,0,0,1,0,1,1,1,1,0,0,1,0,0,1
+-1.08,"Nutrition + WSH","N08002","10",258,"female",22,"Secondary (>5y)",156.55,"Food Secure",0,2,1,1,0,1,1,1,1,1,1,1,0,0,0,0,1,0
+-0.12,"Control","N06453","11",166,"female",41,"No education",147.7,"Food Secure",1,3,0,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+-1.27,"Nutrition","N06453","10",244,"male",32,"Secondary (>5y)",148.85,"Food Secure",1,3,0,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1
+-1.21,"Water","N05359","11",251,"female",20,"Secondary (>5y)",160.1,"Food Secure",2,8,0,1,0,0,1,0,0,1,1,1,1,1,0,0,0,1
+-0.48,"Nutrition","N06502","1",249,"male",NA,"Secondary (>5y)",149.1,"Food Secure",6,14,0,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+-2.69,"WSH","N05160","10",277,"female",28,"Secondary (>5y)",155.55,"Food Secure",1,16,0,1,0,0,1,1,1,1,1,0,1,0,1,0,0,1
+-0.59,"WSH","N06502","5",275,"male",30,"Primary (1-5y)",153.7,"Food Secure",2,29,1,1,0,0,1,0,1,1,1,1,1,0,0,0,0,1
+-0.02,"Nutrition + WSH","N06528","1",229,"male",32,"Primary (1-5y)",157.7,"Food Secure",3,10,0,1,0,1,1,1,1,1,1,0,1,1,0,0,1,1
+0.32,"WSH","N06453","4",208,"male",16,"No education",151.5,"Food Secure",2,4,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+1.12,"WSH","N06505","7",250,"female",20,"Secondary (>5y)",146.6,"Food Secure",0,20,3,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+1.01,"Sanitation","N05265","4",292,"male",23,"Secondary (>5y)",150.7,"Food Secure",0,14,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,1
+0.1,"WSH","N08002","10",287,"male",18,"Secondary (>5y)",154.85,"Food Secure",0,11,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1
+0.96,"Nutrition","N08002","10",298,"female",23,"Secondary (>5y)",158.8,"Food Secure",1,13,1,1,0,0,1,0,1,1,1,1,1,0,1,0,1,1
+-1.11,"Water","N06524","8",325,"female",17,"Primary (1-5y)",154.5,"Food Secure",1,6,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+2.04,"WSH","N06862","9",268,"male",19,"Secondary (>5y)",155.35,"Food Secure",1,5,0,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+0.47,"WSH","N06458","6",209,"male",33,"Primary (1-5y)",150.1,"Mildly Food Insecure",3,12,0,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1
+-0.32,"WSH","N06524","4",304,"female",19,"No education",155.4,"Moderately Food Insecure",3,14,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+-2.05,"Control","N06524","6",361,"female",38,"Primary (1-5y)",149.45,"Food Secure",3,15,4,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+2.57,"Control","N06458","7",209,"female",22,"Primary (1-5y)",152.8,"Mildly Food Insecure",0,11,0,1,0,1,1,0,0,1,1,1,0,0,1,0,0,1
+-0.07,"Water","N05359","1",251,"female",23,"Secondary (>5y)",157.95,"Moderately Food Insecure",2,6,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+-0.75,"Control","N06505","8",220,"male",21,"Primary (1-5y)",143.4,"Food Secure",1,5,0,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+-1.59,"Nutrition","N05160","9",369,"female",21,"Primary (1-5y)",147.2,"Severely Food Insecure",1,5,5,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+-1.16,"Sanitation","N06524","9",344,"male",24,"Secondary (>5y)",152.6,"Food Secure",1,14,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,1
+-1.65,"Nutrition","N06524","5",301,"female",19,"Secondary (>5y)",150.75,"Food Secure",1,9,3,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0
+-1.24,"WSH","N06516","8",302,"female",25,"No education",151.45,"Food Secure",2,8,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+0.26,"Control","N05265","2",179,"male",30,"Primary (1-5y)",151.45,"Food Secure",3,10,0,1,0,1,1,1,0,1,1,0,1,0,0,0,0,1
+-0.43,"Nutrition + WSH","N06528","6",226,"female",27,"No education",152.4,"Moderately Food Insecure",2,6,0,0,0,1,1,0,0,1,0,1,0,0,1,0,0,1
+0.68,"Control","N06524","12",310,"female",18,"Primary (1-5y)",145.8,"Mildly Food Insecure",0,17,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,1
+-0.19,"Control","N06524","2",273,"male",26,"Secondary (>5y)",152.15,"Food Secure",2,25,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-0.34,"Handwashing","N06229","4",325,"male",36,"Secondary (>5y)",153.9,"Food Secure",4,19,5,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+-2.35,"Sanitation","N06229","4",257,"male",30,"No education",151.25,"Moderately Food Insecure",3,8,2,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0
+-2.4,"Sanitation","N06479","3",267,"female",18,"Primary (1-5y)",143.4,"Food Secure",0,10,1,1,0,1,1,0,0,1,1,1,0,0,1,0,0,1
+-1.85,"Control","N06229","4",227,"female",NA,"Primary (1-5y)",146.1,"Moderately Food Insecure",3,19,2,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+0.06,"Control","N06502","3",242,"male",25,"Primary (1-5y)",142.6,"Food Secure",2,19,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+-2.87,"Handwashing","N06473","8",294,"male",25,"Primary (1-5y)",139.95,"Food Secure",1,12,6,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+0.18,"WSH","N06453","10",273,"female",21,"Secondary (>5y)",145.9,"Food Secure",0,16,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,1
+-0.24,"Control","N06502","8",268,"female",17,"Secondary (>5y)",153.35,"Mildly Food Insecure",0,8,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-1.45,"Control","N05359","11",270,"male",23,"Primary (1-5y)",145.8,"Moderately Food Insecure",2,13,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1
+-1.64,"WSH","N06458","3",247,"male",23,"Secondary (>5y)",157.7,"Mildly Food Insecure",2,5,0,1,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+-0.83,"Sanitation","N04681","10",304,"male",20,"Secondary (>5y)",166.3,"Food Secure",0,3,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,1
+-1.61,"Sanitation","N06528","1",174,"male",26,"Primary (1-5y)",146.05,"Mildly Food Insecure",2,9,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+0.18,"Nutrition + WSH","N06862","6",171,"female",25,"Primary (1-5y)",142.6,"Food Secure",2,4,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+1.12,"Handwashing","N06458","3",245,"male",19,"Secondary (>5y)",142.5,"Mildly Food Insecure",2,17,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-0.74,"Handwashing","N05160","11",236,"male",28,"Secondary (>5y)",157.95,"Food Secure",2,7,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1
+-0.48,"Sanitation","N06473","4",201,"male",25,"Primary (1-5y)",146.5,"Moderately Food Insecure",1,5,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,1
+-1.68,"Nutrition + WSH","N06505","4",313,"female",25,"No education",143.95,"Food Secure",1,7,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-0.97,"Sanitation","N06502","6",275,"female",20,"Primary (1-5y)",144.65,"Food Secure",1,10,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+0.07,"Nutrition","N08002","10",286,"female",35,"Primary (1-5y)",150.8,"Food Secure",1,7,2,1,0,0,1,0,1,1,1,1,1,0,0,0,0,1
+-1.22,"Handwashing","N06505","4",172,"male",23,"Secondary (>5y)",159.9,"Food Secure",0,17,0,1,0,1,1,0,1,0,1,1,1,0,0,0,0,1
+0.13,"Control","N06528","5",215,"male",26,"Primary (1-5y)",143.6,"Food Secure",2,10,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,1
+-0.55,"Sanitation","N06524","5",240,"female",30,"Secondary (>5y)",157.85,"Food Secure",2,4,5,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-1.06,"Nutrition + WSH","N06229","1",288,"male",18,"Secondary (>5y)",146.1,"Food Secure",0,9,2,1,1,1,1,0,0,1,1,0,1,0,0,0,0,1
+-1.05,"Nutrition","N08002","10",219,"female",29,"Secondary (>5y)",159.05,"Food Secure",2,4,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1
+-0.13,"Control","N06505","4",292,"male",20,"Secondary (>5y)",154.95,"Food Secure",0,14,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+0,"WSH","N06479","1",201,"male",25,"Primary (1-5y)",153.75,"Moderately Food Insecure",1,19,3,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1
+0.96,"Control","N06479","8",242,"male",21,"No education",143.65,"Moderately Food Insecure",2,20,2,0,0,1,1,0,0,1,0,1,0,0,0,0,0,1
+-0.75,"Sanitation","N05265","8",337,"female",19,"Secondary (>5y)",147.65,"Food Secure",2,7,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+-0.77,"Handwashing","N06516","5",298,"female",23,"Secondary (>5y)",151,"Food Secure",1,17,0,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1
+0.07,"Control","N04681","12",202,"female",24,"Secondary (>5y)",152.4,"Food Secure",1,15,0,1,0,0,1,0,1,1,1,0,1,1,1,1,0,1
+0.3,"Sanitation","43","4",202,"male",24,"Primary (1-5y)",146.45,"Food Secure",2,8,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1
+-1.87,"Control","N06479","5",249,"female",18,"Secondary (>5y)",147.7,"Food Secure",1,13,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,0
+-1.24,"Handwashing","N06862","6",290,"female",19,"Primary (1-5y)",150.8,"Food Secure",4,34,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+1.33,"WSH","N06524","11",230,"male",25,"Secondary (>5y)",156.7,"Food Secure",2,10,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1
+0.18,"Control","N06473","4",232,"male",19,"Secondary (>5y)",147,"Food Secure",1,5,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-0.71,"Nutrition + WSH","43","2",184,"female",34,"Primary (1-5y)",147.65,"Food Secure",1,3,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+-0.53,"Control","N06528","1",164,"female",23,"Secondary (>5y)",156.5,"Food Secure",1,20,1,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+-0.55,"Control","N08002","2",150,"male",18,"Secondary (>5y)",144.15,"Food Secure",3,22,0,1,1,1,1,0,1,1,1,1,1,0,0,0,0,1
+-1.03,"Nutrition + WSH","N05160","9",344,"female",35,"Secondary (>5y)",162.25,"Food Secure",7,15,0,1,0,1,1,1,1,1,1,1,0,0,1,1,0,1
+-0.19,"Handwashing","N06528","6",201,"male",27,"Secondary (>5y)",146.75,"Moderately Food Insecure",1,4,0,1,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+-2.03,"Sanitation","N06528","9",288,"male",35,"Primary (1-5y)",157.1,"Food Secure",1,3,0,1,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+-1.74,"Sanitation","N05359","11",245,"female",21,"Secondary (>5y)",155.45,"Food Secure",1,6,0,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1
+-1.19,"Sanitation","N06458","4",273,"female",17,"Primary (1-5y)",143.2,"Food Secure",0,10,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+-1.59,"Control","N05359","7",320,"male",19,"Primary (1-5y)",143.65,"Moderately Food Insecure",0,17,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+-1.08,"Sanitation","N06862","9",313,"female",17,"Secondary (>5y)",152,"Food Secure",3,14,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-0.34,"Sanitation","N06453","12",272,"female",26,"Primary (1-5y)",151.2,"Food Secure",1,3,1,1,0,0,1,0,1,1,0,1,0,0,1,0,0,1
+-0.86,"Water","N06500","6",192,"female",20,"Primary (1-5y)",145.35,"Severely Food Insecure",1,6,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+-1.44,"Sanitation","N08002","8",269,"female",23,"Secondary (>5y)",152.35,"Food Secure",1,14,0,1,0,1,1,0,0,1,1,1,0,0,1,0,0,1
+-1.23,"Nutrition","N06453","1",188,"male",25,"No education",151.9,"Severely Food Insecure",2,4,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-2.03,"Sanitation","N06479","4",206,"male",30,"No education",154.95,"Severely Food Insecure",2,11,0,1,0,1,1,0,1,1,0,1,0,0,1,0,0,0
+-1.32,"Handwashing","N04681","1",143,"male",18,"Primary (1-5y)",145.8,"Food Secure",0,14,2,1,0,1,1,0,1,1,1,0,1,0,0,0,0,1
+-0.29,"Nutrition","N05265","9",287,"female",18,"Secondary (>5y)",152.2,"Food Secure",0,4,0,1,0,1,1,0,1,1,0,1,1,0,1,0,0,1
+-1.81,"Nutrition + WSH","N06479","10",209,"female",17,"Primary (1-5y)",142.55,"Food Secure",2,9,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1
+-0.68,"Handwashing","N06473","10",319,"female",16,"Secondary (>5y)",145.3,"Food Secure",1,10,0,1,0,0,1,1,1,1,1,0,1,1,0,0,0,1
+-0.42,"Control","N06531","5",281,"female",25,"Primary (1-5y)",142.2,"Food Secure",1,19,8,0,0,1,1,0,0,1,0,1,0,0,0,0,0,1
+-1.05,"Control","N06528","2",182,"male",21,"Secondary (>5y)",154.7,"Food Secure",1,7,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+0.29,"Water","N06531","2",309,"female",24,"Secondary (>5y)",158.75,"Food Secure",1,15,0,1,1,1,1,0,1,1,1,0,1,0,0,0,0,1
+-1.02,"Nutrition","N06458","10",223,"male",28,"Primary (1-5y)",144.7,"Moderately Food Insecure",2,11,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+-1.8,"Nutrition + WSH","N06458","4",187,"female",20,"Primary (1-5y)",149.6,"Moderately Food Insecure",4,8,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-0.72,"Nutrition + WSH","N06229","6",338,"female",19,"Primary (1-5y)",147.8,"Food Secure",3,10,1,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+-0.74,"Control","N06458","10",245,"female",19,"Secondary (>5y)",148.35,"Food Secure",0,5,0,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1
+-0.15,"Nutrition + WSH","N06505","3",258,"male",19,"Primary (1-5y)",156.95,"Food Secure",1,10,0,1,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+-1.21,"Water","N06458","8",321,"female",40,"No education",141.8,"Food Secure",2,15,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,1
+-1.02,"Control","N06516","5",275,"male",26,"Primary (1-5y)",153.25,"Mildly Food Insecure",2,34,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0
+-1.41,"Water","N06453","10",351,"male",22,"Secondary (>5y)",153.7,"Food Secure",1,14,1,1,0,0,1,0,1,1,1,1,1,1,0,0,0,1
+0.35,"Control","N06479","8",297,"female",20,"No education",152.35,"Moderately Food Insecure",0,4,0,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1
+0.36,"Water","N04681","5",293,"male",20,"Secondary (>5y)",151.25,"Food Secure",4,11,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+-1.25,"WSH","N05160","5",292,"male",26,"Primary (1-5y)",145.05,"Food Secure",3,8,0,0,0,1,1,0,0,1,1,1,0,0,1,0,0,1
+0.01,"Nutrition","N04681","11",244,"female",22,"Secondary (>5y)",145,"Food Secure",2,9,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1
+-1.23,"Nutrition + WSH","N06862","3",260,"male",16,"Primary (1-5y)",147.05,"Food Secure",3,9,10,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1
+-1.67,"WSH","N05265","7",367,"female",18,"Primary (1-5y)",151.25,"Food Secure",0,9,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-1.2,"Sanitation","N06453","5",279,"female",32,"Secondary (>5y)",145.7,"Food Secure",0,24,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+-0.04,"Nutrition","N06524","8",276,"female",16,"Secondary (>5y)",150,"Food Secure",1,8,2,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-2.27,"Control","N06528","3",233,"male",33,"No education",159.05,"Severely Food Insecure",2,22,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0
+-1.85,"Control","N05359","3",287,"female",35,"No education",141.05,"Moderately Food Insecure",0,19,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+-0.14,"Control","N05359","4",163,"female",17,"Primary (1-5y)",149.35,"Food Secure",1,27,0,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+-1.69,"Nutrition","N06453","9",328,"female",26,"No education",146.05,"Food Secure",1,17,3,0,0,0,1,1,1,1,1,0,0,0,0,0,0,1
+-0.49,"Sanitation","N06473","12",239,"female",19,"Secondary (>5y)",147.25,"Food Secure",2,8,0,1,0,0,1,1,1,1,1,1,0,0,1,0,1,1
+-1.79,"Water","N06458","1",270,"female",20,"Primary (1-5y)",152.5,"Moderately Food Insecure",2,9,5,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-2.45,"Nutrition + WSH","N06531","5",272,"male",34,"Primary (1-5y)",143.15,"Food Secure",3,13,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,0
+-0.4,"Handwashing","N06505","3",190,"female",23,"Secondary (>5y)",145.2,"Food Secure",1,8,2,1,0,1,1,0,1,1,1,0,0,0,1,0,0,1
+-2.06,"Sanitation","N04681","4",229,"female",28,"Primary (1-5y)",147.25,"Food Secure",3,6,0,1,0,0,1,0,1,0,1,1,0,0,1,0,0,1
+-0.18,"Control","N08002","10",192,"female",21,"Secondary (>5y)",154.2,"Food Secure",1,5,0,1,0,1,1,0,1,1,1,0,1,1,1,0,0,1
+0.66,"WSH","N06473","12",203,"female",19,"Secondary (>5y)",151,"Food Secure",0,8,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+1.03,"Nutrition","N06453","9",275,"male",23,"Primary (1-5y)",152.15,"Food Secure",6,17,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1
+-0.96,"Nutrition","43","4",322,"male",35,"No education",145.55,"Moderately Food Insecure",0,8,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+0.94,"Control","N06862","9",230,"female",16,"Secondary (>5y)",151.15,"Moderately Food Insecure",3,14,1,1,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+-0.45,"WSH","N06458","11",218,"female",24,"Secondary (>5y)",154.2,"Mildly Food Insecure",1,6,0,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1
+-2.46,"Nutrition","N04681","10",307,"female",20,"No education",151.7,"Food Secure",3,8,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1
+-0.3,"Water","N08002","8",283,"female",30,"No education",149.7,"Food Secure",3,5,2,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-0.91,"Sanitation","N06229","9",281,"male",25,"Secondary (>5y)",154.55,"Food Secure",3,9,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+0.51,"WSH","N05160","12",251,"female",24,"Secondary (>5y)",148.25,"Food Secure",2,6,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1
+-0.16,"Nutrition + WSH","N05359","9",315,"male",20,"Primary (1-5y)",146.5,"Moderately Food Insecure",0,13,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+1.02,"Water","N06473","9",299,"female",23,"Secondary (>5y)",143.35,"Moderately Food Insecure",2,10,6,1,0,1,1,0,0,1,1,1,0,0,1,0,0,1
+-0.37,"Control","N05160","4",244,"male",30,"Primary (1-5y)",152.1,"Severely Food Insecure",3,5,5,0,0,1,1,0,1,1,1,1,0,0,1,0,0,0
+1.94,"Handwashing","N08002","10",232,"female",24,"Secondary (>5y)",152.5,"Food Secure",0,14,2,1,0,0,1,1,1,1,1,0,1,1,1,0,0,1
+-0.53,"Sanitation","N06458","5",224,"male",30,"Primary (1-5y)",153.5,"Moderately Food Insecure",3,16,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-0.15,"Nutrition","N06458","9",258,"female",23,"Secondary (>5y)",147.55,"Food Secure",1,6,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0,1
+0.36,"Sanitation","N06516","12",234,"male",16,"Secondary (>5y)",145.45,"Food Secure",1,9,0,1,0,1,1,0,0,1,0,1,0,0,1,0,0,1
+0.09,"WSH","N06502","1",179,"male",28,"Secondary (>5y)",154.45,"Food Secure",1,11,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-0.97,"Control","N06479","6",243,"female",35,"No education",150.75,"Moderately Food Insecure",2,14,0,1,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+-1.79,"Nutrition","N06516","6",298,"female",24,"Primary (1-5y)",141.3,"Mildly Food Insecure",2,18,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-0.7,"Sanitation","N06524","6",296,"female",35,"No education",150,"Mildly Food Insecure",6,11,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1
+0.28,"Water","N06473","1",237,"female",24,"Secondary (>5y)",153.65,"Food Secure",1,17,0,1,1,1,1,0,1,0,1,1,0,0,0,0,0,1
+-1.4,"Control","N06479","1",178,"male",25,"Secondary (>5y)",152.4,"Food Secure",1,3,0,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1
+-0.43,"Nutrition + WSH","N06531","6",248,"female",32,"No education",148.85,"Mildly Food Insecure",4,7,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-0.79,"Control","N06479","9",292,"female",25,"Primary (1-5y)",154.1,"Moderately Food Insecure",3,5,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,1
+-2.88,"Nutrition","N05359","7",343,"female",24,"Primary (1-5y)",151.9,"Moderately Food Insecure",0,4,0,1,0,1,1,1,0,0,1,0,0,0,1,0,0,1
+-0.38,"Nutrition","N06862","3",256,"female",19,"Secondary (>5y)",156.2,"Food Secure",1,9,1,1,0,1,1,0,0,1,1,0,1,0,1,0,0,1
+0.09,"Nutrition + WSH","N06453","9",320,"female",18,"No education",142.45,"Food Secure",1,3,0,1,0,1,1,0,0,0,1,0,0,0,1,0,0,1
+-1.3,"Nutrition + WSH","N06489","5",262,"male",24,"Primary (1-5y)",152.9,"Moderately Food Insecure",1,11,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+-0.82,"Nutrition + WSH","N08002","8",249,"male",28,"Primary (1-5y)",145.2,"Moderately Food Insecure",1,5,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+-1,"Nutrition","43","6",321,"female",26,"Secondary (>5y)",149.9,"Food Secure",2,5,0,1,0,1,1,0,1,1,0,1,1,0,0,0,0,1
+-1.07,"WSH","N04681","9",376,"female",18,"Secondary (>5y)",143.9,"Food Secure",0,4,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1
+-0.29,"WSH","N06524","12",273,"male",18,"Secondary (>5y)",141.2,"Food Secure",2,9,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0,1
+-1.05,"WSH","N06500","4",318,"male",36,"No education",160.75,"Moderately Food Insecure",4,17,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+-0.93,"Nutrition + WSH","N06453","8",341,"male",24,"Secondary (>5y)",151.4,"Food Secure",1,13,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+0.45,"Control","N06502","8",353,"female",25,"Secondary (>5y)",151.95,"Food Secure",1,3,0,1,0,1,1,1,1,1,1,0,1,0,0,0,0,1
+2.37,"Handwashing","N06473","9",342,"female",20,"Secondary (>5y)",152.15,"Food Secure",1,11,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1
+1.37,"Handwashing","N06528","4",207,"male",19,"Secondary (>5y)",145.35,"Food Secure",2,7,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-1.79,"Water","N06524","7",256,"male",17,"Secondary (>5y)",148.15,"Food Secure",8,14,2,1,0,1,1,0,1,1,1,1,1,1,0,1,0,1
+0.85,"Water","N06531","3",224,"male",25,"Primary (1-5y)",148.3,"Food Secure",2,13,2,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-1.39,"Nutrition + WSH","N06473","11",275,"male",29,"Secondary (>5y)",147.25,"Food Secure",3,14,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0,1
+-1.77,"Control","N05359","4",349,"male",17,"No education",140.05,"Food Secure",1,10,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+0.2,"Nutrition","N06505","2",152,"female",20,"Secondary (>5y)",153.75,"Food Secure",0,10,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+0.73,"Handwashing","N06505","1",217,"female",19,"Secondary (>5y)",151.4,"Food Secure",1,8,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,1
+0.94,"Nutrition + WSH","N06531","1",247,"male",23,"Secondary (>5y)",148.2,"Food Secure",1,12,0,1,1,1,1,0,1,1,1,0,1,0,0,0,0,1
+-0.09,"Water","N05359","1",156,"male",25,"Primary (1-5y)",154.65,"Food Secure",2,10,0,1,0,1,1,0,0,1,0,1,0,0,1,0,0,1
+-0.49,"Water","N06505","9",247,"female",21,"Secondary (>5y)",165.75,"Food Secure",1,5,2,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1
+0.22,"Sanitation","N06473","2",271,"female",33,"No education",152.8,"Food Secure",0,15,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1
+-0.55,"Nutrition","N06453","12",237,"male",18,"Secondary (>5y)",150.2,"Food Secure",0,7,0,1,0,0,1,0,1,0,1,1,1,0,0,0,0,1
+-1.09,"Nutrition + WSH","N06516","4",278,"male",NA,"Primary (1-5y)",158.8,"Mildly Food Insecure",0,10,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,1
+-0.51,"Sanitation","N06473","4",238,"female",16,"Primary (1-5y)",152.55,"Moderately Food Insecure",1,7,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+0.66,"Control","N06473","9",282,"male",20,"Primary (1-5y)",150.6,"Food Secure",0,8,0,1,0,0,1,0,1,1,0,1,0,0,0,1,0,1
+0.08,"Control","N06229","10",347,"female",20,"Secondary (>5y)",154.7,"Food Secure",0,4,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,1
+-0.37,"Water","N05359","11",283,"male",22,"Primary (1-5y)",138.7,"Food Secure",1,7,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1
+0.23,"WSH","N06528","3",198,"female",30,"Primary (1-5y)",151.3,"Food Secure",3,6,0,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+-0.67,"WSH","N06500","3",242,"female",28,"No education",150.8,"Moderately Food Insecure",1,9,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-1.69,"Sanitation","N06516","9",335,"male",26,"Primary (1-5y)",143.25,"Food Secure",1,12,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-1.21,"WSH","N06502","9",342,"female",17,"Secondary (>5y)",155.35,"Moderately Food Insecure",6,27,1,1,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+-0.71,"Control","N06473","4",213,"male",27,"Secondary (>5y)",149.55,"Food Secure",3,10,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-0.47,"Control","N06229","2",290,"female",19,"Secondary (>5y)",145.65,"Food Secure",0,6,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+0.2,"Sanitation","N08002","5",283,"male",25,"No education",140.95,"Moderately Food Insecure",0,7,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+-0.31,"Nutrition + WSH","N06524","4",259,"female",22,"Primary (1-5y)",152.7,"Mildly Food Insecure",1,4,5,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-0.63,"Control","N06516","7",332,"male",18,"Secondary (>5y)",154.95,"Food Secure",0,9,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+0.49,"Control","N06516","9",262,"female",16,"Secondary (>5y)",145.1,"Food Secure",1,2,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-0.68,"Control","N06524","11",227,"female",19,"Secondary (>5y)",150.15,"Food Secure",0,11,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1
+-0.04,"Control","N06479","8",247,"male",16,"Secondary (>5y)",150.6,"Food Secure",3,7,0,1,0,1,1,0,1,1,1,1,0,0,1,0,1,1
+-1.23,"Nutrition","N06524","3",238,"male",30,"No education",150.9,"Moderately Food Insecure",5,20,10,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+-0.27,"Nutrition","N06473","8",319,"female",28,"Secondary (>5y)",151.55,"Food Secure",4,17,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+0.17,"Water","N05160","3",285,"female",17,"Secondary (>5y)",138.7,"Food Secure",1,8,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,1
+-1.1,"Nutrition","N06524","3",230,"male",25,"Primary (1-5y)",160.2,"Food Secure",4,8,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0
+2.32,"Nutrition + WSH","N06516","3",251,"male",20,"Primary (1-5y)",147,"Food Secure",0,6,1,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+2.1,"Control","N06453","9",323,"male",28,"Secondary (>5y)",153.8,"Food Secure",5,10,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0,1
+-1.4,"Sanitation","N08002","4",287,"male",18,"Secondary (>5y)",140.7,"Food Secure",1,12,0,0,0,1,1,0,1,1,0,1,1,0,1,0,0,1
+-0.08,"Water","N06516","12",287,"female",28,"Secondary (>5y)",162.6,"Food Secure",2,14,0,1,1,1,1,0,1,1,1,1,1,1,0,1,0,1
+0.05,"Control","N06458","2",317,"male",25,"Secondary (>5y)",160.15,"Food Secure",0,13,0,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1
+0.7,"Water","N06458","11",322,"male",22,"Secondary (>5y)",142.35,"Food Secure",0,17,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1
+-0.9,"Nutrition","N08002","9",289,"female",19,"Secondary (>5y)",145.8,"Food Secure",1,11,0,1,0,1,1,0,1,1,1,1,0,0,1,0,1,1
+-0.22,"Handwashing","N05359","12",166,"male",18,"Secondary (>5y)",153.8,"Food Secure",1,6,0,1,0,0,1,0,1,1,1,1,1,0,1,0,0,1
+0.45,"Water","N05265","3",154,"male",24,"Secondary (>5y)",155.1,"Food Secure",1,3,0,1,0,1,1,1,1,1,0,1,1,0,1,0,0,1
+1.08,"Water","N04681","5",243,"female",30,"Secondary (>5y)",145.15,"Food Secure",2,18,3,1,0,1,1,0,1,0,1,1,0,0,1,0,0,1
+-1.79,"Sanitation","N06458","8",307,"female",27,"Primary (1-5y)",145.35,"Mildly Food Insecure",2,4,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0
+0.16,"Handwashing","N04681","12",290,"male",25,"Secondary (>5y)",155.15,"Food Secure",1,7,1,1,1,1,1,0,0,1,1,1,0,0,0,0,0,1
+-0.14,"Handwashing","N08002","1",190,"female",16,"Secondary (>5y)",147.85,"Moderately Food Insecure",3,19,1,1,1,1,1,0,1,0,1,1,1,0,0,0,0,1
+0.59,"Control","N08002","1",187,"female",30,"Primary (1-5y)",162.4,"Severely Food Insecure",2,8,1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,1
+-0.39,"Control","N08002","10",307,"male",28,"Secondary (>5y)",155.25,"Food Secure",2,8,2,1,0,0,1,0,1,1,1,1,1,0,1,0,0,1
+-0.86,"Nutrition + WSH","N06500","8",334,"female",34,"Primary (1-5y)",150.65,"Food Secure",1,6,0,1,0,1,1,0,1,1,1,0,1,0,1,1,0,1
+-0.87,"Water","N06516","9",363,"female",30,"Secondary (>5y)",159.15,"Mildly Food Insecure",3,7,0,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1
+-1.09,"Nutrition + WSH","N08002","3",189,"female",25,"Secondary (>5y)",157.5,"Moderately Food Insecure",2,17,0,1,0,1,1,0,1,1,0,1,1,0,0,0,0,1
+-1.36,"Nutrition + WSH","N05160","6",265,"female",19,"Primary (1-5y)",150.15,"Food Secure",1,9,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+-0.76,"Control","N05160","9",353,"female",27,"No education",155.4,"Food Secure",2,19,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-1.46,"Control","N06458","1",239,"male",30,"No education",147.85,"Moderately Food Insecure",2,16,0,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0
+-1.33,"Control","N06862","7",255,"male",19,"Primary (1-5y)",151.2,"Moderately Food Insecure",0,11,2,1,0,1,1,0,1,0,0,1,0,0,1,0,0,1
+-1.62,"Sanitation","N08002","10",282,"male",25,"Secondary (>5y)",155.35,"Food Secure",1,12,2,1,0,0,1,1,1,1,1,0,1,0,0,0,0,1
+-0.35,"Nutrition","N06458","4",200,"male",26,"Primary (1-5y)",149.6,"Moderately Food Insecure",1,10,2,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1
+0.76,"Sanitation","N06531","2",188,"male",23,"Secondary (>5y)",148.35,"Food Secure",2,6,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,1
+0.88,"Handwashing","N06489","1",232,"male",28,"Secondary (>5y)",151.5,"Food Secure",2,13,0,1,1,1,1,1,1,1,1,0,1,1,0,0,0,1
+-0.18,"Water","N08002","11",234,"male",20,"Secondary (>5y)",147.1,"Moderately Food Insecure",1,10,0,1,0,1,1,1,1,1,1,0,0,0,0,0,0,1
+1.04,"Nutrition","N06453","12",261,"male",17,"Secondary (>5y)",141.2,"Moderately Food Insecure",2,23,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1
+0.22,"Water","N06479","7",253,"male",22,"No education",142.1,"Mildly Food Insecure",2,16,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-1.26,"Control","N06489","8",285,"male",32,"No education",150.2,"Food Secure",5,7,2,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+-0.16,"Sanitation","N06473","6",320,"female",26,"Primary (1-5y)",151.4,"Moderately Food Insecure",2,21,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+-0.96,"Sanitation","N08002","8",272,"male",23,"No education",145.8,"Food Secure",1,10,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-0.09,"Nutrition","N06458","12",257,"female",22,"Secondary (>5y)",158.65,"Moderately Food Insecure",3,12,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1
+0.67,"Control","N06458","11",310,"male",26,"Secondary (>5y)",148.4,"Mildly Food Insecure",1,9,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+-2.48,"Handwashing","N05359","9",307,"male",18,"Secondary (>5y)",147.8,"Food Secure",1,7,0,0,1,1,1,0,1,1,1,1,0,0,0,0,1,1
+0.3,"WSH","N06489","3",283,"male",22,"Primary (1-5y)",155.8,"Food Secure",2,7,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+0.65,"Sanitation","N06229","5",229,"male",27,"Secondary (>5y)",148.85,"Food Secure",2,9,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+-2.58,"Nutrition + WSH","N06453","9",392,"male",17,"Secondary (>5y)",148.25,"Mildly Food Insecure",3,11,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-1.05,"WSH","N06516","10",307,"male",18,"Secondary (>5y)",147.7,"Food Secure",0,9,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,1
+-0.31,"Control","N06516","9",340,"female",20,"Secondary (>5y)",144.15,"Moderately Food Insecure",0,5,0,1,0,1,1,0,1,0,1,1,0,0,1,0,0,0
+-0.84,"Sanitation","N05359","12",307,"male",30,"Primary (1-5y)",153.95,"Food Secure",2,11,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1
+-0.36,"Control","N06458","10",258,"female",19,"Secondary (>5y)",157.85,"Food Secure",0,5,0,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1
+-0.8,"WSH","N08002","7",254,"female",26,"Primary (1-5y)",148.1,"Food Secure",4,6,2,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+-0.41,"Sanitation","N06458","10",226,"male",20,"Secondary (>5y)",155.9,"Food Secure",3,9,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+0.44,"Nutrition + WSH","N06453","11",243,"female",25,"Secondary (>5y)",154,"Food Secure",1,9,1,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1
+0.52,"Sanitation","N04681","10",222,"male",19,"Secondary (>5y)",152.7,"Food Secure",1,5,0,1,1,1,1,0,1,1,1,1,0,0,0,0,0,1
+-1.13,"Nutrition + WSH","N06531","3",217,"female",22,"Secondary (>5y)",159.5,"Food Secure",1,16,2,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+0.18,"WSH","N05359","8",273,"female",27,"Secondary (>5y)",153.5,"Moderately Food Insecure",1,8,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-1.03,"Nutrition + WSH","N06473","11",288,"male",26,"Secondary (>5y)",150.35,"Food Secure",1,6,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,1
+-1.36,"Water","N06473","10",370,"male",18,"Secondary (>5y)",153.75,"Food Secure",0,11,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+-1.55,"Water","N06458","8",359,"male",24,"Primary (1-5y)",144.65,"Food Secure",1,5,1,0,0,0,1,0,1,1,1,1,0,0,1,0,0,1
+-0.05,"Nutrition","N06479","1",208,"male",19,"Secondary (>5y)",159.45,"Food Secure",0,18,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+0.63,"Control","N06524","11",277,"female",24,"Secondary (>5y)",157.15,"Food Secure",2,20,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1
+0.01,"Nutrition + WSH","N06453","11",216,"female",21,"Primary (1-5y)",153.95,"Food Secure",1,5,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1
+-1.16,"Handwashing","N06531","8",200,"female",26,"No education",155.55,"Food Secure",1,11,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1
+0.57,"Sanitation","N06502","8",288,"male",26,"Primary (1-5y)",150.95,"Mildly Food Insecure",2,6,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-0.62,"Nutrition + WSH","N06473","12",258,"male",15,"Secondary (>5y)",147.2,"Moderately Food Insecure",2,8,0,1,0,0,1,0,1,1,1,1,1,0,1,0,0,1
+0.1,"Handwashing","N06453","10",242,"male",35,"Primary (1-5y)",149.55,"Food Secure",4,9,0,1,0,0,1,0,1,1,1,1,1,0,1,0,0,1
+-1.34,"Nutrition","N06458","1",263,"female",17,"No education",144.2,"Food Secure",0,9,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1
+2.11,"Control","N06531","8",226,"female",23,"Secondary (>5y)",148.8,"Food Secure",2,6,0,1,0,1,1,0,1,1,1,0,0,0,1,0,0,1
+-1.26,"Water","N06453","4",268,"female",17,"Primary (1-5y)",147.7,"Food Secure",2,5,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0
+1.69,"Control","N06516","10",230,"female",26,"Secondary (>5y)",147.75,"Mildly Food Insecure",1,7,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,1
+-1.35,"Nutrition","N06453","10",291,"male",36,"No education",NA,"Food Secure",3,5,1,1,0,0,1,0,1,1,0,1,1,0,1,0,0,1
+-0.08,"Sanitation","N06524","10",273,"male",25,"Secondary (>5y)",152.05,"Food Secure",0,5,0,1,0,1,1,0,0,1,1,0,0,0,0,0,0,1
+-0.45,"Control","N06453","1",273,"male",31,"Primary (1-5y)",141.45,"Food Secure",3,16,0,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0
+-1.05,"Control","N06505","1",252,"female",19,"Secondary (>5y)",156.25,"Food Secure",1,21,6,0,0,1,1,0,0,1,1,1,0,0,0,0,0,1
+-1.42,"Nutrition + WSH","N05265","8",219,"male",32,"Secondary (>5y)",155.15,"Food Secure",1,8,0,1,0,1,1,1,1,1,1,0,1,1,1,1,0,1
+-0.41,"Handwashing","N06473","4",291,"female",20,"Secondary (>5y)",154.9,"Food Secure",0,4,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-0.49,"Handwashing","N06531","9",358,"female",22,"Secondary (>5y)",159.05,"Food Secure",8,19,0,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+-1.05,"Control","N06516","11",288,"male",24,"Primary (1-5y)",156.8,"Mildly Food Insecure",3,9,0,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1
+-1.23,"Control","N04681","6",285,"female",26,"Secondary (>5y)",151.35,"Food Secure",2,16,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-1.66,"WSH","N08002","3",221,"male",25,"Secondary (>5y)",146.15,"Food Secure",3,9,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-2.83,"Nutrition + WSH","N06453","6",226,"male",17,"Primary (1-5y)",145.85,"Mildly Food Insecure",5,20,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+0.48,"Water","N08002","9",374,"male",29,"Secondary (>5y)",150.35,"Food Secure",3,6,0,0,0,1,1,0,0,1,0,1,0,0,1,0,0,1
+-0.68,"WSH","N08002","9",359,"female",30,"Secondary (>5y)",158.05,"Moderately Food Insecure",1,13,2,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1
+-0.07,"Control","N06500","5",198,"female",18,"Primary (1-5y)",150.05,"Severely Food Insecure",2,18,3,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-0.65,"Nutrition","N06479","3",267,"male",20,"Primary (1-5y)",155.1,"Moderately Food Insecure",1,16,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+-0.3,"Sanitation","N06458","9",280,"male",17,"Primary (1-5y)",153.45,"Food Secure",3,6,1,1,0,0,1,0,1,1,0,1,1,0,0,0,0,1
+-0.57,"Nutrition + WSH","N05265","8",320,"male",26,"No education",151.55,"Moderately Food Insecure",2,7,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+-0.24,"Control","N06489","8",276,"male",19,"Secondary (>5y)",151.8,"Food Secure",1,6,0,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1
+-0.3,"Nutrition","N06458","1",204,"female",27,"No education",147,"Mildly Food Insecure",0,22,0,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-0.05,"Nutrition","N04681","12",258,"male",24,"Primary (1-5y)",155.45,"Food Secure",1,24,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,1
+-1.52,"WSH","N06453","8",319,"female",37,"No education",146.3,"Moderately Food Insecure",3,14,0,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-2.65,"Nutrition + WSH","N06502","4",210,"male",30,"Primary (1-5y)",157.6,"Severely Food Insecure",2,6,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+-1.87,"Nutrition + WSH","N08002","10",296,"female",16,"Secondary (>5y)",158.3,"Food Secure",4,13,2,1,0,0,1,0,1,1,1,0,1,1,1,1,1,1
+-1.91,"WSH","N06516","12",268,"male",30,"Primary (1-5y)",144.25,"Moderately Food Insecure",2,11,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1
+0.32,"Handwashing","N05160","10",386,"male",17,"Secondary (>5y)",149,"Food Secure",1,7,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1
+-0.42,"Control","N06479","10",233,"female",25,"Secondary (>5y)",145.65,"Food Secure",3,14,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0,1
+-1.89,"Control","N06229","9",313,"female",22,"Secondary (>5y)",144.7,"Food Secure",0,9,1,1,0,1,1,0,0,0,1,1,1,0,1,0,1,1
+-0.19,"Nutrition + WSH","N06453","10",242,"male",19,"Secondary (>5y)",NA,"Food Secure",1,13,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+0.48,"WSH","N06516","10",329,"female",31,"Secondary (>5y)",154.65,"Food Secure",3,5,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1
+-1.65,"Control","N06473","1",258,"male",32,"No education",162.05,"Food Secure",4,12,1,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+-1.23,"Control","N06528","8",316,"male",23,"Secondary (>5y)",151.4,"Food Secure",1,16,0,1,0,1,1,0,1,1,1,0,0,0,1,0,0,1
+-0.06,"Control","N06502","3",318,"female",22,"Secondary (>5y)",151.3,"Food Secure",1,6,2,0,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+-1.88,"Nutrition + WSH","N06531","2",208,"female",25,"Primary (1-5y)",149.3,"Food Secure",1,9,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+-0.16,"Water","N06524","9",293,"male",16,"Secondary (>5y)",147.05,"Food Secure",0,9,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1
+-1.33,"Water","N06479","1",275,"male",26,"Secondary (>5y)",143.05,"Moderately Food Insecure",1,22,1,1,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+-0.42,"Nutrition + WSH","N05265","6",197,"male",24,"Primary (1-5y)",153.25,"Food Secure",1,3,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+0.11,"Sanitation","N08002","10",272,"male",29,"No education",150.3,"Moderately Food Insecure",3,6,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1
+-1.06,"WSH","N06524","9",337,"female",28,"Primary (1-5y)",145.2,"Food Secure",4,13,0,0,0,1,1,0,1,1,1,0,0,0,1,0,0,1
+-0.34,"WSH","N04681","5",314,"male",18,"Secondary (>5y)",151.9,"Food Secure",3,17,2,1,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+-1.9,"Control","N05359","3",283,"male",30,"Primary (1-5y)",146.8,"Moderately Food Insecure",3,14,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+-2.4,"Handwashing","N06453","12",210,"male",20,"Secondary (>5y)",151.45,"Moderately Food Insecure",1,7,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+-0.29,"Control","N06502","6",284,"male",20,"No education",145.15,"Food Secure",1,14,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+-0.85,"Sanitation","N06531","8",376,"male",20,"Primary (1-5y)",135.85,"Food Secure",0,16,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,1
+-2.59,"Nutrition + WSH","N06505","3",257,"male",18,"Secondary (>5y)",151.7,"Food Secure",0,8,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,1
+-1.5,"Control","N06229","4",335,"male",32,"No education",139.55,"Mildly Food Insecure",2,25,2,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1
+-1.31,"Nutrition + WSH","N06531","5",258,"male",25,"Secondary (>5y)",141.9,"Mildly Food Insecure",5,17,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+0.73,"Control","N05160","9",311,"female",23,"Secondary (>5y)",145.65,"Food Secure",1,4,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+0.08,"Sanitation","N06862","4",215,"male",16,"Primary (1-5y)",148.8,"Food Secure",2,16,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+-1.5,"Nutrition","N06531","1",175,"female",22,"Secondary (>5y)",149.15,"Food Secure",0,20,120,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1
+-1.47,"Control","N08002","2",267,"female",21,"Secondary (>5y)",148.8,"Moderately Food Insecure",3,26,2,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1
+0.39,"Nutrition","N08002","1",254,"male",19,"No education",136,"Moderately Food Insecure",0,14,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+-0.37,"Nutrition + WSH","N06505","7",258,"female",42,"No education",152.8,"Moderately Food Insecure",4,14,0,0,1,1,1,0,1,1,1,1,0,0,0,0,0,1
+-0.07,"Handwashing","N06516","8",244,"male",25,"Primary (1-5y)",145.25,"Mildly Food Insecure",1,3,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+0.56,"Control","N06453","10",401,"male",19,"Primary (1-5y)",155.55,"Food Secure",0,6,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1
+-0.3,"Water","N05359","9",282,"male",22,"No education",148.9,"Moderately Food Insecure",2,18,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+-2.03,"Handwashing","43","3",270,"male",22,"Secondary (>5y)",144.35,"Food Secure",1,22,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+0.81,"Nutrition","N06524","10",226,"male",25,"Secondary (>5y)",162.35,"Food Secure",1,9,1,1,0,1,1,1,1,1,1,1,0,1,1,0,0,1
+-0.61,"Nutrition + WSH","N06473","5",197,"male",23,"No education",147.2,"Food Secure",1,6,3,1,0,1,1,0,1,1,1,1,1,0,0,0,0,1
+-1.54,"WSH","N06502","3",319,"female",18,"Secondary (>5y)",143.9,"Moderately Food Insecure",0,9,1,1,0,1,1,0,0,1,0,1,0,0,1,0,0,1
+0.35,"Control","N05359","4",296,"male",22,"Secondary (>5y)",145.7,"Food Secure",1,17,0,1,0,1,1,0,1,1,1,1,1,0,0,0,1,1
+-1.34,"Handwashing","N06229","6",200,"male",30,"Secondary (>5y)",152.55,"Food Secure",1,16,0,1,0,1,1,0,0,1,0,1,1,0,1,0,1,1
+0.15,"Nutrition","N06473","1",249,"female",18,"Secondary (>5y)",143.6,"Food Secure",0,7,0,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1
+-0.96,"WSH","N06479","6",325,"male",22,"Secondary (>5y)",152.65,"Food Secure",2,8,0,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1
+-1.43,"Sanitation","N05160","7",254,"male",23,"Secondary (>5y)",152.05,"Food Secure",1,8,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-3.95,"Handwashing","N06862","8",324,"female",28,"No education",156.35,"Moderately Food Insecure",3,15,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+-1.28,"Water","N08002","10",282,"female",24,"Secondary (>5y)",146.5,"Moderately Food Insecure",3,13,1,0,0,1,1,1,1,0,1,1,0,0,0,0,0,1
+0.11,"Handwashing","N06505","7",334,"female",22,"Secondary (>5y)",151.15,"Moderately Food Insecure",1,10,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+-1.61,"Water","N05265","4",225,"male",27,"Secondary (>5y)",153.4,"Food Secure",1,8,5,1,0,1,1,0,0,0,1,0,0,0,0,0,1,1
+0.4,"Nutrition","N06458","11",280,"female",26,"Secondary (>5y)",148.1,"Food Secure",1,3,0,1,1,1,1,0,1,1,1,0,1,0,0,0,0,1
+1.54,"Sanitation","N06524","10",251,"female",27,"Secondary (>5y)",158.25,"Food Secure",2,7,2,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-1.63,"Handwashing","N06500","3",196,"male",28,"Primary (1-5y)",153.3,"Moderately Food Insecure",2,18,2,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1
+-0.93,"Nutrition","N06505","2",138,"female",23,"Primary (1-5y)",151,"Food Secure",2,7,0,0,0,1,1,0,1,1,1,0,0,0,0,1,0,1
+-0.96,"Nutrition + WSH","N06453","11",290,"female",18,"Secondary (>5y)",150.15,"Food Secure",0,3,1,1,0,1,1,0,1,1,0,1,1,1,0,1,1,1
+-1.02,"WSH","N04681","12",228,"female",23,"Secondary (>5y)",151.05,"Food Secure",1,5,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1
+1.1,"Control","N05265","1",174,"female",18,"Secondary (>5y)",153.8,"Food Secure",2,6,0,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1
+-1.85,"Control","N06502","8",348,"male",37,"No education",146.5,"Moderately Food Insecure",4,25,1,1,0,1,1,0,0,1,1,1,0,0,0,0,0,1
+-0.71,"Control","N06489","9",362,"male",24,"Secondary (>5y)",140.5,"Food Secure",1,6,2,1,0,1,1,0,1,1,1,0,0,0,1,0,0,1
+-0.88,"Nutrition + WSH","N08002","1",312,"male",38,"No education",148.6,"Moderately Food Insecure",5,13,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,1
+-0.66,"Handwashing","N05359","12",295,"male",22,"Primary (1-5y)",151.25,"Moderately Food Insecure",1,11,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,1
+-0.78,"Nutrition","N05160","7",299,"female",29,"Primary (1-5y)",157,"Food Secure",2,8,3,1,0,1,1,0,1,1,1,0,1,0,1,0,0,1
+-0.37,"Handwashing","N06524","7",284,"female",27,"No education",149.1,"Food Secure",2,25,5,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-1.77,"Sanitation","N08002","3",203,"female",20,"Secondary (>5y)",151.6,"Food Secure",4,9,0,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1
+-1.07,"Control","N06458","6",330,"male",20,"Primary (1-5y)",149.3,"Mildly Food Insecure",1,12,1,0,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+3.25,"Handwashing","N05359","5",191,"male",32,"No education",150,"Moderately Food Insecure",5,7,0,0,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+-0.07,"Control","N06516","7",276,"female",20,"Primary (1-5y)",147.6,"Food Secure",0,20,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+-1.66,"Sanitation","N06531","1",164,"male",18,"Primary (1-5y)",154,"Food Secure",0,5,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1
+0.01,"Nutrition + WSH","N06473","12",225,"male",24,"Secondary (>5y)",160.7,"Food Secure",2,24,0,1,0,0,1,0,1,1,1,0,1,0,0,1,0,1
+-0.42,"Control","N04681","5",188,"male",22,"Secondary (>5y)",148.05,"Food Secure",1,6,0,0,0,1,1,0,1,1,1,1,0,0,0,1,0,1
+1,"Nutrition","N06229","1",194,"male",29,"Primary (1-5y)",153.2,"Food Secure",3,19,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,1
+-1.18,"Nutrition","N05359","12",314,"female",29,"Secondary (>5y)",152.15,"Mildly Food Insecure",2,4,40,1,0,0,1,0,1,0,0,1,0,0,1,0,0,1
+-1.06,"Control","N04681","10",334,"female",18,"Secondary (>5y)",146.3,"Food Secure",0,4,0,1,0,0,1,0,1,1,1,1,0,0,1,0,1,1
+0.38,"WSH","N06458","11",362,"female",25,"Secondary (>5y)",151,"Food Secure",1,3,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+-1.5,"Nutrition + WSH","N06528","2",171,"female",25,"No education",158.15,"Food Secure",2,26,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+-0.51,"Nutrition + WSH","N06516","10",264,"male",18,"Primary (1-5y)",147.6,"Food Secure",1,11,0,1,0,1,1,0,1,0,0,1,1,0,0,0,0,1
+1.34,"Control","N06528","1",206,"male",26,"Secondary (>5y)",159.35,"Food Secure",1,17,3,0,0,1,1,0,1,1,1,1,0,0,0,0,1,1
+-0.77,"Water","N06502","1",206,"female",20,"Secondary (>5y)",143.7,"Food Secure",0,20,2,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+-0.38,"Nutrition + WSH","N06862","6",305,"male",17,"Secondary (>5y)",146.6,"Food Secure",0,16,0,1,0,1,1,0,1,1,1,0,1,0,0,0,0,1
+-1.58,"Control","N06531","3",230,"male",25,"Secondary (>5y)",156,"Food Secure",1,16,4,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+-0.82,"Handwashing","N06505","6",193,"female",20,"Primary (1-5y)",144.85,"Severely Food Insecure",1,14,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1
+0.19,"Handwashing","N06524","5",309,"male",35,"Secondary (>5y)",162.3,"Food Secure",4,6,1,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+-1.06,"Nutrition + WSH","N06489","5",271,"female",18,"Primary (1-5y)",149.4,"Moderately Food Insecure",1,14,3,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1
+1.4,"Control","N06528","3",207,"female",28,"No education",152.4,"Mildly Food Insecure",2,11,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+0.58,"WSH","N06479","2",245,"male",35,"Secondary (>5y)",152.35,"Moderately Food Insecure",4,7,1,1,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+-4.03,"Control","N06516","6",342,"female",19,"No education",150.15,"Severely Food Insecure",1,26,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+-1.17,"Handwashing","43","4",316,"female",25,"Secondary (>5y)",136.35,"Food Secure",1,14,0,1,0,1,1,1,1,1,1,1,0,0,1,0,0,1
+-0.95,"Control","N05160","4",292,"male",17,"Secondary (>5y)",150,"Food Secure",3,21,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1
+-1.51,"Handwashing","N05265","1",187,"male",18,"Secondary (>5y)",145.05,"Food Secure",0,18,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1
+-1.04,"Water","N06479","6",190,"male",19,"Secondary (>5y)",143.1,"Food Secure",3,6,0,1,0,1,1,0,1,1,1,1,0,0,1,0,0,1
+0.4,"WSH","N05359","8",355,"female",25,"Secondary (>5y)",151.7,"Food Secure",1,21,0,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1
+0.19,"Handwashing","N05160","10",313,"female",26,"Secondary (>5y)",156,"Food Secure",1,2,0,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1
+-0.21,"Sanitation","N08002","9",241,"female",18,"No education",148.35,"Moderately Food Insecure",1,7,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1
+0.55,"Handwashing","N05265","3",171,"female",24,"Secondary (>5y)",148.9,"Food Secure",0,29,0,1,1,1,1,0,1,1,1,0,1,0,1,0,0,1
+-0.34,"Control","N06524","12",323,"male",28,"Primary (1-5y)",160.6,"Food Secure",2,4,0,1,1,1,1,0,1,1,1,1,1,1,0,1,0,1
+0.92,"Handwashing","N04681","1",261,"female",16,"Secondary (>5y)",145.85,"Food Secure",3,9,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1
+-0.08,"Nutrition","N06229","3",282,"female",28,"Primary (1-5y)",151.95,"Food Secure",2,5,2,1,0,1,1,0,0,0,0,1,0,0,1,0,0,1
+-0.75,"Sanitation","N06500","6",313,"male",36,"Primary (1-5y)",155.05,"Moderately Food Insecure",2,12,0,1,0,1,1,0,1,1,0,1,0,0,1,0,0,1
+0.64,"WSH","N05359","1",120,"female",24,"Primary (1-5y)",147.35,"Moderately Food Insecure",1,3,5,1,0,1,1,0,1,1,1,0,1,0,0,0,0,1
+-0.25,"Nutrition + WSH","N06453","9",243,"female",23,"Primary (1-5y)",150.6,"Food Secure",1,9,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1
